@@ -79,6 +79,12 @@
             "custom_liquid": "<div class=\"viewer-count\">\n  👁️<span id=\"viewerNumber\">  </span> people watching this product now!\n</div>\n\n<style>\n  @keyframes changeViewerNumber {\n    0% {\n      content: \"95\";\n    }\n  10% {\n      content: \"85\";\n    }\n 20% {\n      content: \"90\";\n    }\n    25% {\n      content: \"92\";\n    }\n  35% {\n      content: \"102\";\n    }\n    50% {\n      content: \"109\";\n    }\n  60% {\n      content: \"81\";\n    }\n    75% {\n      content: \"89\";\n    }\n 75% {\n      content: \"97\";\n    }\n    100% {\n      content: \"110\";\n    }\n  }\n\n  .viewer-count span#viewerNumber::after {\n    content: \"X\";\n    animation: changeViewerNumber 10s infinite;\n  }\n</style>"
           }
         },
+        "custom_liquid_qihU8F": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p class=\"para\"> Upto <span class=\"highlight\">70% Off</span> Sitewide\n  </p>\n<style>\n .para{\n    color: #fff;\n    background: #965e9b;\n    padding: 10px 12px;\n    width: 100%;\n    margin-bottom: 0;\n    font-size: 16px;\n    font-weight: 400;\n    text-align: center;\n    border-radius: 3px;\n    border: 1px solid black;\n}\n<style>"
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -98,6 +104,7 @@
         "text_8J3Yca",
         "text_KbdkKJ",
         "custom_liquid_RiWhxV",
+        "custom_liquid_qihU8F",
         "share"
       ],
       "settings": {
