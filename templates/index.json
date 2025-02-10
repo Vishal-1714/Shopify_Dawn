@@ -161,8 +161,9 @@
         "buttons_ntR6W6"
       ],
       "settings": {
+        "image": "shopify://shop_images/Premium_alkaline_water_bottle_with_purity_optimal_hydration_and_eco-friendly_sustainability_by_Silver_Blue_Water.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
