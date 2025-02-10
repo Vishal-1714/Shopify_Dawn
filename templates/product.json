@@ -62,8 +62,21 @@
         "text_8J3Yca": {
           "type": "text",
           "settings": {
-            "text": "Text block",
+            "text": "Length:- 32",
             "text_style": "body"
+          }
+        },
+        "text_KbdkKJ": {
+          "type": "text",
+          "settings": {
+            "text": "<em>Note: The image is for reference purpose</em>",
+            "text_style": "body"
+          }
+        },
+        "custom_liquid_RiWhxV": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"viewer-count\">\n  👁️<span id=\"viewerNumber\">  </span> people watching this product now!\n</div>\n\n<style>\n  @keyframes changeViewerNumber {\n    0% {\n      content: \"95\";\n    }\n  10% {\n      content: \"85\";\n    }\n 20% {\n      content: \"90\";\n    }\n    25% {\n      content: \"92\";\n    }\n  35% {\n      content: \"102\";\n    }\n    50% {\n      content: \"109\";\n    }\n  60% {\n      content: \"81\";\n    }\n    75% {\n      content: \"89\";\n    }\n 75% {\n      content: \"97\";\n    }\n    100% {\n      content: \"110\";\n    }\n  }\n\n  .viewer-count span#viewerNumber::after {\n    content: \"X\";\n    animation: changeViewerNumber 10s infinite;\n  }\n</style>"
           }
         },
         "share": {
@@ -83,6 +96,8 @@
         "text_YfFdnd",
         "text_8KgP3Q",
         "text_8J3Yca",
+        "text_KbdkKJ",
+        "custom_liquid_RiWhxV",
         "share"
       ],
       "settings": {
