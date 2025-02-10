@@ -82,7 +82,7 @@
         "custom_liquid_qihU8F": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": ""
+            "custom_liquid": "<div class=\"box\">\nUpto highlight 70% Off Sitewide \n  </div>\n\n<style>\n.box{\ncolor: #fff;\n    background: #965e9b;\n    padding: 10px 12px;\n    width: 100%;\n    margin-bottom: 0;\n    font-size: 16px;\n    font-weight: 400;\n    text-align: center;\n    border-radius: 3px;\n    border: 1px solid black;\n</style>"
           }
         },
         "share": {
